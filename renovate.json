@@ -3,7 +3,7 @@
   "hostRules": [{
     "hostType": "npm",
     "abortOnError": true,
-    "abortIgnoreStatusCodes": [404]
+    "abortIgnoreStatusCodes": []
   }],
   "extends": [
     "config:base"
