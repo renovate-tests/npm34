@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "chalk": "2.0.0",
+    "@rarkins/notfound5": "1.0.0"
+  }
+}
