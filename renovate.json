@@ -5,6 +5,7 @@
     "abortOnError": true,
     "abortIgnoreStatusCodes": []
   }],
+  "commitAction": "{{ secrets.aToken }}",
   "extends": [
     "config:base"
   ]
